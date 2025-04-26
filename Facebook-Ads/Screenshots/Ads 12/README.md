@@ -1,1 +1,8 @@
-
+- Campaign Name : - Tailored Lead Campaign Ad - MH
+- Platform :- Facebook & Instagram
+- Budget :- ₹2000 Per month
+- Duration :- 3 Month
+- Leads Generated :- 14 / Running
+- Cost Per Lead (CPL) :- ₹17.03/-, Reach - 7,959
+- Target Audience :- Location - India , Age 25–45, Furniture maker, Home and craft, sound makers
+- Result :- Video ad with 3.2% CTR,

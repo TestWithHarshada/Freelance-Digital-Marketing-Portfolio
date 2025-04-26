@@ -1,1 +1,8 @@
-
+- Campaign Name : - Image Ad - WB
+- Platform :- Facebook & Instagram
+- Budget :- ₹2000 Per month
+- Duration :- 3 Month
+- Leads Generated :- 13 / Running
+- Cost Per Lead (CPL) :- ₹31.29/-, Reach - 19,575
+- Target Audience :- Location - India , Age 25–45, Furniture maker, Home and craft, sound makers
+- Result :- Video ad with 3.2% CTR,

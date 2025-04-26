@@ -1,4 +1,4 @@
-- Campaign Name : - Lead Generation Ads
+- Campaign Name : - Tailored Lead Generation Ads
 - Platform :-  Facebook & Instagram  
 - Budget :- ₹2000 
 - Duration :- 1 Month

@@ -4,5 +4,5 @@
 - Duration :- 3 Month
 - Leads Generated :- 218 / Running
 - Cost Per Lead (CPL) :- ₹48.05/-, Reach - 2,75,498
-- Target Audience :- Location - India , Age 25–45, Furniture maker, Home and craft, sound makers
+- Target Audience :- Location - Karnataka, Age 25–55, Furniture maker, Home and craft, sound makers
 - Result :- Video ad with 3.2% CTR,

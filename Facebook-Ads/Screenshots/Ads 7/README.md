@@ -1,4 +1,4 @@
-- Campaign Name : - Image Ad - 9 State
+- Campaign Name : - Image Ad - 9 States
 - Platform :- Facebook & Instagram
 - Budget :- ₹2000 Per month
 - Duration :- 3 Month

@@ -1,11 +1,12 @@
-- Client Industry :- Manufacturing
+- Client Industry :-Manufacturing
 - Work Summary :-
-     - Prepared detailed Excel reports analyzing digital marketing performance.
-     - Tracked lead generation, ad spend, and ROI.
-     - Automated calculations for faster reporting.
-     - Delivered Daily performance analysis to client.
+        - Daily Data Management & Reporting
+        - Collected daily data and Shorting Statewise and provide the leads.
+        - Created simple Excel reports (like state-wise counts).
+        - Maintained clean and easy-to-read tables.
+        - Shared daily reports via WhatsApp and email.
 
 - Tools Used :- Microsoft Excel
 
 - Note :-
-  Company branding blurred for confidentiality.
+   - Company branding blurred for confidentiality.

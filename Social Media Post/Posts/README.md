@@ -1,12 +1,12 @@
 - Social Media Management - Freelance Project
-
-- Client Industry :- Manufacturing 
-
+- Client Industry :- Manufacturing
 - Work Summary :-
-- Managed Instagram and Facebook accounts.
-- Created 20+ social media posts monthly.
-- Increased engagement by 30% over 3 months.
-- Ran targeted ad campaigns to promote products.
+    - Created and designed 20+ social media posts monthly.
+    - Wrote engaging captions aligning with the brand voice.
+    - Increased Instagram and Facebook engagement by 30%.
+    - Managed posting schedule and follower interaction.
+
+-  Tools Used :- Canva, Facebook Creator Studio
 
 - Note :-
-- Company branding blurred for confidentiality.
+  Company branding blurred for confidentiality.

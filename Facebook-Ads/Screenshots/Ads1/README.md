@@ -1,7 +1,7 @@
 - Campaign Name : - Tailored Lead Generation Ads
 - Platform :-  Facebook & Instagram  
 - Budget :- ₹2000 
-- Duration :- 1 Month
+- Duration :- 2 Month
 - Leads Generated :- 378
 - Cost Per Lead (CPL) :-  ₹28.72/-, Reach - 3,39,860
 - Target Audience :- Location - India , Age 25–55, Furniture maker, Home and craft, sound makers

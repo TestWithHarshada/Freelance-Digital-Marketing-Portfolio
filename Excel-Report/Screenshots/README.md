@@ -1,4 +1,5 @@
 - Client Industry :-Manufacturing
+
 - Work Summary :-
       - Daily Data Management & Reporting
       - Collected daily data and Shorting Statewise and provide the leads.

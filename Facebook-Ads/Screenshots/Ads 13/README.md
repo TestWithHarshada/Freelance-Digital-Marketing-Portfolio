@@ -1,1 +1,8 @@
-
+- Campaign Name : - Service Provide - India
+- Platform :- Facebook & Instagram
+- Budget :- ₹2000 Per month
+- Duration :- 3 Month
+- Leads Generated :- 6 / Running
+- Cost Per Lead (CPL) :- ₹43.28/-, Reach - 6,072
+- Target Audience :- Location - India , Age 25–45, Furniture maker, Home and craft, sound makers
+- Result :- Video ad with 3.2% CTR,

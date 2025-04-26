@@ -4,5 +4,5 @@
 - Duration :- 3 Month
 - Link Click :- 3493 / Running
 - Cost Per Lead (CPL) :- ₹0.57/-, Reach - 2,21,387
-- Target Audience :- Location - India , Age 25–45, Furniture maker, Home and craft, sound makers
+- Target Audience :- Location - India, Age 25–55.
 - Result :- Website Traffic ad with 3.2% CTR,

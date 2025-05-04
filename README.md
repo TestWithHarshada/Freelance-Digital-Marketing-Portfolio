@@ -1,5 +1,6 @@
 # Freelancing-Digital-Marketing-Specialist-
 
+    - Project Name:- Freelance Digital Marketing 
 - This repository showcases samples of freelance digital marketing projects.
 
 - Services Provided :-

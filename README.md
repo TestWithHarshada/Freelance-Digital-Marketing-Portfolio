@@ -1,15 +1,13 @@
-# Freelancing-Digital-Marketing-Specialist-
+# Simple Calculator App 
 
-    - Project Name:- Freelance Digital Marketing 
-- This repository showcases samples of freelance digital marketing projects.
+    - Project Name:- simple calculator App
+- 
 
 - Services Provided :-
-     - Social Media Management 
-     - Facebook Campaign Paid ads
-     - Google Paid Ads
-     - WordPress website handled
-     - Indiamart - Product Data Listing
+     - 
+     - 
+    
+       
 
 - Note :-
-     - Client confidentiality is maintained.
-     - Company branding blurred for confidentiality.
+     - 

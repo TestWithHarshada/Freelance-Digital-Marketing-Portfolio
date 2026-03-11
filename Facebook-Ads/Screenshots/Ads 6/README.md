@@ -1,8 +1,0 @@
-- Campaign Name : - Website Traffic 
-- Platform :- Facebook & Instagram
-- Budget :- ₹2000 Per month
-- Duration :- 3 Month
-- Link Click :- 3493 / Running
-- Cost Per Lead (CPL) :- ₹0.57/-, Reach - 2,21,387
-- Target Audience :- Location - India, Age 25–55.
-- Result :- Website Traffic ad with 3.2% CTR,

@@ -1,8 +1,0 @@
-- Campaign Name : - Tailored Lead Campaign Ad -  6 States
-- Platform :- Facebook & Instagram
-- Budget :- ₹2000 Per month
-- Duration :- 3 Month
-- Leads Generated :- 32 / Running
-- Cost Per Lead (CPL) :- ₹34.66/-, Reach - 18,318
-- Target Audience :- Location - MH,KA,WB,OD,MP,RJ, Age 25–55, Furniture maker, Home and craft, sound makers
-- Result :- Video ad with 3.2% CTR,

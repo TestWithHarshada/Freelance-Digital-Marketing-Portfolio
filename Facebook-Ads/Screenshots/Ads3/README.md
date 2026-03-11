@@ -1,8 +1,0 @@
-- Campaign Name : - Video Ad - MH 
-- Platform :- Facebook & Instagram
-- Budget :- ₹2000
-- Duration :- 2 Month
-- Leads Generated :- 15 / Running 
-- Cost Per Lead (CPL) :- ₹15.12/-, Reach - 7517
-- Target Audience :- Location - Maharashtra, Age 25–55, Furniture maker, Home and craft, sound makers
-- Result :- Video ad with 3.2% CTR,
